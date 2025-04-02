@@ -4,7 +4,7 @@ This repository provides starter code and problems for the midterm technical int
 
 ## Mideterm Details 
 
-1. You must schedule time to take the interview in person or virtually via Microsoft Teams.
+1. You must schedule time to take the interview in person or virtually via Microsoft Teams. Link to schedule is in Brightspace.
 1. Questions 1-4 will be chosen at random at the start of the interview, or you may elect to select the hardest question #5.
 1. You will accept an assignment repository with the question and open it in a Codespace.
 1. You will work with your instructor through the problem by sharing your codepase with the Liveshare extension. We will walk through how to set it up.
