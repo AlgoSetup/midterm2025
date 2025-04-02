@@ -18,26 +18,3 @@ header {
 main {
   padding: 20px;
 }
-
-button {
-  background-color: #ff007f;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #cf005d;
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background-color: #333;
-  color: #fff;
-  padding: 10px 0;
-}
